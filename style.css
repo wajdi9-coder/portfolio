@@ -284,26 +284,23 @@ section{
 }
 @media(max-width:1023px)and (min-width:400px){
     body{
-        font-size: 13px;
+        font-size: 12px;
     }
     .main {
-        padding: 3em 1em;
+        padding: 3em 2em;
     }
-    .content{
-        flex-direction: column;
-        align-items: center;
-    }
+    
     header{
-        padding: 2em 3em;
+        padding: 2em 4em;
     }
     section{
-        padding: 3em 1em;
+        padding: 3em 2em;
     }
     .navigation a {
         padding-left: 1em;
     }
     .footer{
-        padding:2em 0.5em;
+        padding:2em 1em;
     }
 }
 
