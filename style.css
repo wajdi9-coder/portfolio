@@ -56,7 +56,6 @@ section{
     background: url(assest/603823eca4b46344229b30f8_portfolio_course.png) no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     -webkit-backdrop-filter: blur(8px);
     backdrop-filter: blur(8px);
 }
