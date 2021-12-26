@@ -143,7 +143,7 @@ section{
 }
 .card{
     background-color: rgb(255, 255, 255);
-    width: 10em;
+    width: 15em;
     box-shadow: 0 0 25px rgba(1, 1, 1, 30%);
     border-radius: 10px;
     padding: 1em;
@@ -180,7 +180,7 @@ section{
 .project-card{
     background-color: #fff;
     min-height: 14em;
-    width: 10em;
+    width: 15em;
     border-radius: 10px;
     overflow: hidden;
     margin: 1em;
@@ -204,13 +204,13 @@ section{
     padding: 1em;
 }
 .project-categorie{
-    font-size: 0.8;
+    font-size: 0.8em;
     color: #150047;
 }
 .project-title{
     display: flex;
     justify-content: space-between;
-    margin-top: 0.7;
+    margin-top: 0.7em;
     font-weight: 800;
     text-transform: uppercase;
 }
@@ -270,7 +270,7 @@ section{
     }
     
     header{
-        padding: 2em 1em;
+        padding: 2em 3em;
     }
     section{
         padding: 3em 0.5em;
