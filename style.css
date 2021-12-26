@@ -61,7 +61,7 @@ section{
     backdrop-filter: blur(8px);
 }
 .maindiv{
-    padding: 25px;
+    padding: 2em;
     background-color: rgba(0, 0, 0, 0.157);
     -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px);
