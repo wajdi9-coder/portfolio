@@ -282,7 +282,7 @@ section{
         padding:2em 0.5em;
     }
 }
-@media(max-width:1023px)and (min-width:400px){
+@media(max-width:1023px)and (min-width:600px){
     body{
         font-size: 12px;
     }
