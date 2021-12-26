@@ -143,7 +143,7 @@ section{
 }
 .card{
     background-color: rgb(255, 255, 255);
-    width: 16em;
+    width: 18em;
     box-shadow: 0 0 25px rgba(1, 1, 1, 30%);
     border-radius: 10px;
     padding: 1em;
@@ -180,7 +180,7 @@ section{
 .project-card{
     background-color: #fff;
     min-height: 14em;
-    width: 16em;
+    width: 18em;
     border-radius: 10px;
     overflow: hidden;
     margin: 1em;
@@ -239,7 +239,7 @@ section{
     color: #000;
 }
 .contact .info p{
-    font-size: 0.8em;
+    font-size: 1em;
     margin-bottom: 0.3em;
 }
 
